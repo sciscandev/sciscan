@@ -1,4 +1,4 @@
 sciscan
 =======
 
-Development version SciScan software
+Development version of SciScan software
